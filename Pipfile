@@ -7,7 +7,7 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
-django = "==2.1.9"
+django = "==2.1.11"
 gunicorn = "==19.9.0"
 
 [requires]
